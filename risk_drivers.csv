@@ -1,0 +1,18 @@
+Feature,Importance
+Shipping Mode,1.5628283
+sched_days,0.63581574
+Order Region,0.049176864
+order_complexity,0.036713757
+Sales,0.033728987
+Type,0.033514723
+Order Item Discount,0.033028845
+Order Item Profit Ratio,0.02898584
+Department Name,0.027194474
+Customer Segment,0.023426928
+region_congestion,0.020034812
+Order Item Product Price,0.019484157
+Order Item Discount Rate,0.017987603
+Market,0.01610127
+shipping_pressure,0.015049087
+is_express,0.0074968003
+Order Item Quantity,0.0048842453

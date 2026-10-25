@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+xgboost==3.4.1
